@@ -1,0 +1,23 @@
+html {
+  background-image: url("http://www.hazecam.net/images/large/boston_right.jpg");
+  background-size: cover;
+}
+
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 24px;
+  color: white;   
+}
+
+
+.transp {
+  position:absolute;
+  left:30%;
+  top:25%;
+  background: #000000;
+  background: rgba(185,185,185,.3);
+  width:40%;
+  height:40%;
+}
+
+
