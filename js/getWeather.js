@@ -1,4 +1,4 @@
-var openWeatherAPI = "http://api.openweathermap.org/data/2.5/weather?q=Boston,MA&units=imperial&appid=e83c647ce00875018840ab990873d34a";
+var openWeatherAPI = "http://api.openweathermap.org/data/2.5/weather?q=Boston,US&units=imperial&appid=e83c647ce00875018840ab990873d34a";
 
 
 
